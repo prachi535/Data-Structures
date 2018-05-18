@@ -1,4 +1,4 @@
-/*Given an array of integers, find and print the minimum absolute difference between any two elements in the array. For example, given the array A=[-2,2,4] we can create pairs of numbers: and . The differences for these pairs are , and . The minimum absolute difference is .
+/*Given an array of integers, find and print the minimum absolute difference between any two elements in the array. For example, given the array A=[-2,2,4] we can create 3 pairs of numbers: [-2,2] ,[-2,4] and [2,4]. The differences for these pairs are |(-2)-2|=4 ,|()|  and . The minimum absolute difference is .
 */
 
 import java.io.*;
